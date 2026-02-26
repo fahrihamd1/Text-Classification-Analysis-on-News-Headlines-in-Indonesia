@@ -1,2 +1,2 @@
 # Text-Classification-Analysis-on-News-Headlines-in-Indonesia
-This group project is the final project of the Information Retrieval specialization course entitled Text Classification Analysis on News Headlines in Indonesia
+Python, Jupyter Notebook, NLP | Built a text classification model to categorize Indonesian news headlines using an Information Retrieval approach.
